@@ -10,7 +10,7 @@ let package = Package(
         .library(name: "Core", targets: ["Core"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/adedwi1808/game-catalogue-Common-package.git", from: "1.0.1"),
+        .package(url: "https://github.com/adedwi1808/game-catalogue-Common-package.git", from: "1.0.2"),
         .package(url: "https://github.com/realm/realm-swift.git", from: "10.54.6")
     ],
     targets: [

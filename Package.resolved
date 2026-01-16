@@ -1,0 +1,33 @@
+{
+  "originHash" : "644f42e32d21af8a5d13ecb9b8dad99f82fe205e98ae60b51e95967cedbf0ab4",
+  "pins" : [
+    {
+      "identity" : "game-catalogue-common-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adedwi1808/game-catalogue-Common-package.git",
+      "state" : {
+        "revision" : "dbbdfde93561e9ba12d2151017aafde76759da16",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "cccb3ca9e26ec452a29f2f0d4050d1e38b8a3d43",
+        "version" : "14.14.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "revision" : "1c105d34f25af7851c5a3ff146be006de247a6b4",
+        "version" : "10.54.6"
+      }
+    }
+  ],
+  "version" : 3
+}
