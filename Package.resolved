@@ -1,5 +1,5 @@
 {
-  "originHash" : "644f42e32d21af8a5d13ecb9b8dad99f82fe205e98ae60b51e95967cedbf0ab4",
+  "originHash" : "fc0847e70eaf6bc49f47eb12f97767e008f287544fa03595fc59fdbef59f1d6c",
   "pins" : [
     {
       "identity" : "game-catalogue-common-package",
@@ -7,7 +7,7 @@
       "location" : "https://github.com/adedwi1808/game-catalogue-Common-package.git",
       "state" : {
         "revision" : "dbbdfde93561e9ba12d2151017aafde76759da16",
-        "version" : "1.0.1"
+        "version" : "1.0.2"
       }
     },
     {
